@@ -1,8 +1,3 @@
-
-
-// Este es el archivo json q el backend retorna al fronted
-
-// http://localhost:50428.1/Desglose/ListaProyecto?proyectoId=1
 [
 {
   "proyectoId": 1,
